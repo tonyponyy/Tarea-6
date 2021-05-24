@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(245,245,245);
+}
+
+
+button{
+  margin-top: 12px;
+  text-align: center;
+}
+
+hr{
+  width: 80%;
+  margin: auto;
+  margin-bottom: 24px;
+}
+
+#titulo{
+  color:rgb(48,157,255);
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 12px; 
+}
+
+input,textarea{
+  margin-top:12px;
+  margin-bottom:12px;
+  margin-left: 12px;
+}
+
+img{
+  width: 30px;
+  height: 30px;
+  margin-top: 12px;
+}
+
+#caja_formulario{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+
+#name,#last,#mail,#telefono,#text_area{
+  display: flex;
+}

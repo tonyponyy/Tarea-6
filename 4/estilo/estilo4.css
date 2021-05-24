@@ -1,0 +1,36 @@
+body{
+  list-style: none;
+  background-color: gray;
+}
+
+#destacado{
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background-color: lightgray;
+  padding: 23px
+}
+
+.container{
+  background-color: white
+}
+
+#cabecera,#c_de{
+  display: flex;
+}
+
+#c_de{
+  margin-left: 160px;
+}
+
+img{
+  width: 300px;
+  height: 200px;
+  background-color: lightgray;
+  border:1px gray solid;
+  border-radius: 6px;
+}
+
+
+.articulos{
+    width: 330px;
+  }

@@ -1,0 +1,44 @@
+#cabecera a{
+  color: white;
+  text-decoration: none;
+  margin-left:36px;
+}
+
+#parte_izquierda{
+  padding-left:  40px
+}
+#cabecera{
+  padding:  12px;
+  background-color: rgb(61,139,254);
+  margin-bottom: 30px;
+}
+
+body p,.fecha{
+  color:gray;
+}
+
+.Cuerpotexto{
+  color:black;
+}
+
+.entrada{
+  margin-bottom: 60px;
+}
+
+
+.fecha{
+  margin-bottom: 23px;
+}
+
+#categories,#archives{
+  display:grid;
+  margin-top: 60px;  
+}
+
+#parte_derecha{
+  padding-left: 120px 
+}
+
+#categories{
+  margin-top: 160px;
+}

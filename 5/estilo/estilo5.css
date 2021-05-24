@@ -1,0 +1,32 @@
+h1{
+  color: rgb(13,110,253);
+}
+#barra_der,#barra_iz,#barra_superior,#barra_inferior{
+  display:block ruby;
+}
+
+#barra_iz{
+  margin-right: 50%
+}
+
+#select10{
+  width: 80px;
+}
+
+.b1 img,.b2 img ,.b3 img{
+margin:-12px;
+filter:invert(100%);  
+}
+
+#barra_superior{
+  margin-top: 20px;
+}
+
+table{
+  margin-top: 16px;
+  border: 1px gray solid;
+}
+
+#pasapaginas{
+  margin-left: 48.3%
+}

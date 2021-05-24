@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+  color:lightgrey;
+}
+
+#cabecera{
+text-align: center;
+  width: 30%;
+  margin: auto;
+  margin-top: 7%;
+  margin-bottom: 2%;
+  font-size: small;
+ 
+}
+
+h3{
+   font-weight: bolder;
+}
+
+#caja_form{
+  background-color: white;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 12px;
+  border-radius: 5px;
+ 
+}
+
+#enviar{
+  width: 100%;
+}
+
+
+
+
+#titulo_form,#texto_form{
+  color:gray;
+  margin-left: 12px;
+  
+}
+
+#texto_form{
+  margin-bottom: 24px;
+}
+
+
+#user,#pass{
+  margin-bottom: 12px;
+   
+}
+
+#cuadro_gris{
+  background-color: lightgray;
+  padding: 12px
+}
+
+#b1,#b2,#b3{
+  border: 1px lightgray solid;
+}
+
+
+#textologin {text-align: center; margin-top:24px;}
+#redessociales{text-align: center;margin-top:24px}
+
